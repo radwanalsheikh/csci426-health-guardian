@@ -8,11 +8,12 @@ Smart Health Guardian is a responsive ReactJS frontend web application built as 
 - **GitHub Repository**: https://github.com/radwanalsheikh/csci426-health-guardian
 
 ---
-<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/c7d1f6ac-68fe-40e9-9660-0b451a092c4a" />
-<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/cc9fa1c7-8edd-4d6d-addb-065959505269" />
-<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/1a77dc0b-6c11-4570-b870-734f34160f5c" />
-<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/050d589a-db73-485d-9710-f6c2943d8466" />
-<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/99563771-21c7-4f96-9d95-e5b0d88bf682" />
+<img width="1248" height="796" alt="Screenshot 2026-11-07 094836" src="https://github.com/user-attachments/assets/db0b2eec-70e3-47b7-99b9-2e219be5309d" />
+<img width="1248" height="796" alt="Screenshot 2026-11-07 094859" src="https://github.com/user-attachments/assets/d9b921ff-6415-44be-8c22-720c38e2f7a4" />
+<img width="1248" height="796" alt="Screenshot 2026-11-07 094915" src="https://github.com/user-attachments/assets/d4a1cad3-d59a-4ded-908b-d4add18fc57b" />
+<img width="1248" height="796" alt="Screenshot 2026-11-07 094931" src="https://github.com/user-attachments/assets/cac03cf7-7029-464c-86da-7a7aaf7e555a" />
+<img width="1248" height="796" alt="Screenshot 2026-11-07 095000" src="https://github.com/user-attachments/assets/40e0f261-8442-41f6-b8df-64c6e1c19816" />
+
 
 
 
