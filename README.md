@@ -8,6 +8,17 @@ Smart Health Guardian is a responsive ReactJS frontend web application built as 
 - **GitHub Repository**: https://github.com/radwanalsheikh/csci426-health-guardian
 
 ---
+<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/c7d1f6ac-68fe-40e9-9660-0b451a092c4a" />
+<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/cc9fa1c7-8edd-4d6d-addb-065959505269" />
+<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/1a77dc0b-6c11-4570-b870-734f34160f5c" />
+<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/050d589a-db73-485d-9710-f6c2943d8466" />
+<img width="1248" height="796" alt="image" src="https://github.com/user-attachments/assets/99563771-21c7-4f96-9d95-e5b0d88bf682" />
+
+
+
+
+
+
 
 ## Key Features & Pages
 1. **Home / Dashboard**: Features an interactive BMI calculator and real-time metric trackers (Sleep & Water intake).
